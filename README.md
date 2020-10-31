@@ -1,4 +1,4 @@
-# Signapost Challenge
+# Signavio Challenge
 
 ## The Goal
 Please solve the challenge below by meeting the given acceptance criteria. Push your solution to this private GitHub repository and please do not publish your solution in any public GitHub repository or anywhere else! In general, feel free to make assumptions and have fun with the challenge!
